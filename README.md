@@ -1,3 +1,3 @@
 # Parcial 2
 
-Sebasian Uribe y Cristian Uribe
+Sebastian Uribe y Cristian Uribe
